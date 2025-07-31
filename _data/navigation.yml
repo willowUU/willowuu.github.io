@@ -9,14 +9,11 @@ main:
   - title: "人生时间轴"
     url: "/#-人生时间轴"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "数字足迹"
+    url: "/#-数字足迹"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "我能提供的价值"
+    url: "/#-我能提供的价值"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "连接方式"
+    url: "/#-连接方式"

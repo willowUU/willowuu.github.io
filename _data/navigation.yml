@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "当前身份"
+    url: "/#🚀 当前身份"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "代表作"
+    url: "/#-🏆 代表作"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "📜 人生时间轴"
+    url: "/#📜 人生时间轴"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
